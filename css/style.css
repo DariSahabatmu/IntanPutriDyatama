@@ -217,7 +217,6 @@ button:active {
   background-image: url(/img/Intan.jpg);
   background-position: -85px;
   background-size: cover;
-  overflow: hidden;
 }
 
 .content {
