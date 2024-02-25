@@ -214,7 +214,7 @@ button:active {
 
 .bg {
   min-height: 100vh;
-  background-image: url(/img/Intan.jpg);
+  background-image: url(./img/Intan.jpg);
   background-position: -85px;
   background-size: cover;
 }
